@@ -1,0 +1,107 @@
+[
+    {
+      "id": 1,
+      "denumire": "Concert live",
+      "locatie": "Sala Polivalentă",
+      "data": "2024-02-15",
+      "ora": "19:30"
+    },
+    {
+      "id": 2,
+      "denumire": "Expoziție de artă",
+      "locatie": "Muzeul de Artă Modernă",
+      "data": "2024-03-10",
+      "ora": "10:00"
+    },
+    {
+      "id": 3,
+      "denumire": "Conferință tehnologică",
+      "locatie": "Centrul de Conferințe TechHub",
+      "data": "2024-04-05",
+      "ora": "15:00"
+    },
+    {
+      "id": 4,
+      "denumire": "Spectacol de teatru",
+      "locatie": "Teatrul Național",
+      "data": "2024-05-20",
+      "ora": "18:45"
+    },
+    {
+      "id": 5,
+      "denumire": "Festival de film",
+      "locatie": "Cinema City",
+      "data": "2024-06-12",
+      "ora": "20:00"
+    },
+    {
+      "id": 6,
+      "denumire": "Expoziție de știință",
+      "locatie": "Planetariul Municipal",
+      "data": "2024-07-08",
+      "ora": "14:30"
+    },
+    {
+      "id": 7,
+      "denumire": "Maraton de alergare",
+      "locatie": "Parcul Central",
+      "data": "2024-08-03",
+      "ora": "07:00"
+    },
+    {
+      "id": 8,
+      "denumire": "Seară de poezie",
+      "locatie": "Cafeneaua Literară",
+      "data": "2024-09-18",
+      "ora": "19:00"
+    },
+    {
+      "id": 9,
+      "denumire": "Curs de gătit",
+      "locatie": "Școala de Bucătari",
+      "data": "2024-10-11",
+      "ora": "16:15"
+    },
+    {
+      "id": 10,
+      "denumire": "Concert de muzică clasică",
+      "locatie": "Sala de Concerte Simfonia",
+      "data": "2024-11-25",
+      "ora": "20:15"
+    },
+    {
+      "id": 11,
+      "denumire": "Târg de Crăciun",
+      "locatie": "Piața Centrală",
+      "data": "2024-12-15",
+      "ora": "17:30"
+    },
+    {
+      "id": 12,
+      "denumire": "Expoziție de fotografie",
+      "locatie": "Galeria de Artă FotoVisio",
+      "data": "2025-01-08",
+      "ora": "12:00"
+    },
+    {
+      "id": 13,
+      "denumire": "Spectacol de magie",
+      "locatie": "Teatrul de Magie Iluzion",
+      "data": "2025-02-02",
+      "ora": "21:45"
+    },
+    {
+      "id": 14,
+      "denumire": "Curs de dans latino",
+      "locatie": "Studio de Dans Ritmo",
+      "data": "2025-03-20",
+      "ora": "18:30"
+    },
+    {
+      "id": 15,
+      "denumire": "Turneu de tenis",
+      "locatie": "Clubul de Tenis Sportivo",
+      "data": "2025-04-12",
+      "ora": "14:00"
+    }
+]
